@@ -1,0 +1,9 @@
+config:
+    paths:
+        # Fields
+      
+        # Extensions
+        pimee/picker/asset-grid:       cosmomusicproductasset/js/picker/asset-grid
+
+        # Views
+        
