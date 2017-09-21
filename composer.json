@@ -1,0 +1,22 @@
+{
+    "name": "naval/akeno-image-shorting-plugin",
+    "description": "AkeneoProduct Image Shorting bundle",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "naval",
+            "email": "naval.kishor@zorang.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "": "src/",
+            "Context": "features/"
+        }
+    }
+}
+
+
+
+
